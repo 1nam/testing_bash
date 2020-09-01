@@ -1,11 +1,14 @@
 #!/bin/bash
 # above is called a shebang always start bash script with a shebang.
 #...........................bash script help.............................................
+# which bash       # find the bash path or find path to anything with which 
 # sudo             # this is often called= God Mode or root or admin allows you to do things with privileges.
 # ctrl + alt + t   # opens terminal
 # mkdir folder_3   # what this means= mk=make dir=directory then folder name
 # cd folder_3      # cd this means= change directory. then the directory folder name
 # touch file_3     # touch means to create. then the file name to create.
+# rm -rf folder_3  # this would remove the directory folder and all files take caution using this.
+# pwd              # Print Working Directory/current working directory shows the path example: /home/zeus
 # ls               # list directory
 # ls -l            # list directory plus long list
 # ls -l -h         # ls= list -l= long list -h= human readable
