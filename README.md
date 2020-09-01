@@ -4,6 +4,9 @@ using Linux Mint Cinnamon 64bit
 using default terminal
 using built in nano text editor
 
+a nice feature in linux mint is right clicking the top of a window and choosing to keep it on top of other windows 
+this allows you to be able to use terminal or a text editor all while on a movie or social media or writing webpages.
+
 crtl + alt + t #opens terminal use arrow keys up down to view past terminal commands
 if your not sure what a command means or does type :  man --help  or   man and the command   man is the manual pages of terminal.
 
