@@ -11,6 +11,7 @@
 # cat >file_3      # this creates the file_3 and allows you to write in file_3 from terminal when done press ctrl + c to end.
 # cat file_3       # cat means= concatenate simply put cat command reads the file in terminal.
 # gzip file_3      # this will place file_3 in a zip folder to open the gzip just right click and extract here now you have a zip and the file.
+# gzip -d file_3.gz # this unzips the gzip file_3
 # pwd              # Print Working Directory/current working directory shows the path example: /home/zeus
 # ls               # list directory
 # ls -l            # list directory plus long list
