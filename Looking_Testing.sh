@@ -1,10 +1,15 @@
 #!/bin/bash
 # above is called a shebang always start bash script with a shebang.
 #...........................bash script help.............................................
+# sudo             # this is often called= God Mode or root or admin allows you to do things with privileges.
 # ctrl + alt + t   # opens terminal
 # mkdir folder_3   # what this means= mk=make dir=directory then folder name
 # cd folder_3      # cd this means= change directory. then the directory folder name
 # touch file_3     # touch means to create. then the file name to create.
+# ls               # list directory
+# ls -l            # list directory plus long list
+# ls -l -h         # ls= list -l= long list -h= human readable
+# -h               # makes it human readable you will see megabytes and gigabytes.
 # chmod +x file_3  # adds permissions chmod this means= change modify +x means to + yes execute. then file name
 # chmod -x file_3  # removes permissions chmod this means= change modify -x means to - no dont execute. then file name
 # ./file_3         # will run the file in terminal if file has permissions to execute.
