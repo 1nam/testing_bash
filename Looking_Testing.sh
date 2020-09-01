@@ -8,6 +8,7 @@
 # cd folder_3      # cd this means= change directory. then the directory folder name
 # touch file_3     # touch means to create. then the file name to create.
 # rm -rf folder_3  # this would remove the directory folder and all files take caution using this.
+# cat file_3       # cat means= concatenate simply put cat command reads the file in terminal.      
 # pwd              # Print Working Directory/current working directory shows the path example: /home/zeus
 # ls               # list directory
 # ls -l            # list directory plus long list
