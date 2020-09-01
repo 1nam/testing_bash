@@ -5,6 +5,9 @@
 # mkdir folder_3   # what this means= mk=make dir=directory then folder name
 # cd folder_3      # cd this means= change directory. then the directory folder name
 # touch file_3     # touch means to create. then the file name to create.
+# chmod +x file_3  # adds permissions chmod this means= change modify +x means to + yes execute. then file name
+# chmod -x file_3  # removes permissions chmod this means= change modify -x means to - no dont execute. then file name
+# ./file_3         # will run the file in terminal if file has permissions to execute.
 # rm file_3        # rm means remove. then file name to remove
 # rm -r folder_3   # rm -r means remove. then folder name to remove
 # -d  is looking/testing for a directory folder_3
