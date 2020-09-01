@@ -1,10 +1,11 @@
 #!/bin/bash
-# above is called a shebang
+# above is called a shebang always start bash script with a shebang.
 #...........................bash script help.............................................
+# ctrl + alt + t   # opens terminal
 # mkdir folder_3   # what this means= mk=make dir=directory then folder name
 # cd folder_3      # cd this means= change directory. then the directory folder name
 # touch file_3     # touch means to create. then the file name to create.
-# rm file_3     # rm -r means remove. then file name to remove
+# rm file_3        # rm means remove. then file name to remove
 # rm -r folder_3   # rm -r means remove. then folder name to remove
 # -d  is looking/testing for a directory folder_3
 # -f  is looking/testing for a file_3
