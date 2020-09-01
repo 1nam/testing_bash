@@ -9,7 +9,7 @@
 # ls               # list directory
 # ls -l            # list directory plus long list
 # ls -l -h         # ls= list -l= long list -h= human readable
-# -h               # makes it human readable you will see megabytes and gigabytes.
+# -h               # makes it human readable you will see Kilobytes Megabytes Gigabytes Terabytes.
 # chmod +x file_3  # adds permissions chmod this means= change modify +x means to + yes execute. then file name
 # chmod -x file_3  # removes permissions chmod this means= change modify -x means to - no dont execute. then file name
 # ./file_3         # will run the file in terminal if file has permissions to execute.
