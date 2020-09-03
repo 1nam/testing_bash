@@ -1,0 +1,15 @@
+i was asked this question honestly im still learning i dont think you ever stop learning 
+code is in constant change.
+just test them all is my aproch to coding find what your good at and enjoy doing it.
+spring and summer i spend alot of time on windows fall and winter i go to linux.
+this keeps things fresh
+when im on windows code geared towards windows
+linux i code geared towards linux
+learning the way two operating systems handle things 
+can help in coding
+when you see a huge script someone made dont think you cant do it just takes time to learn.
+start small the more you code every day the more your code will grow in size it becomes easy.
+dont just copy and paste code and reorganize it to your benifit learn what each symbol means why it was coded that way.
+look at how code is layed out how many spaces before a { was placed.
+if you get frustated walk away from it come back fresh keep an open mind use common sense and logic.
+
